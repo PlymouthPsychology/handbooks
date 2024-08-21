@@ -19,6 +19,7 @@ website:
       - section: "Stages"
         contents:
           - stage1.qmd
+          - criteria.qmd
           
 
 format:
