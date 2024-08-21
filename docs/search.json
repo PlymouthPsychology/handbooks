@@ -1,33 +1,23 @@
 [
   {
-    "objectID": "stage1.html",
-    "href": "stage1.html",
-    "title": "Stage 1",
-    "section": "",
-    "text": "Overview",
-    "crumbs": [
-      "Psychology Stage Handbooks, 2024-5",
-      "Stages",
-      "Stage 1"
-    ]
-  },
-  {
     "objectID": "ecs.html",
     "href": "ecs.html",
     "title": "Extenuating Circumstances",
     "section": "",
-    "text": "TODO",
-    "crumbs": [
-      "Psychology Stage Handbooks, 2024-5",
-      "Basics",
-      "Extenuating Circumstances"
-    ]
+    "text": "TODO"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Psychology Stage Handbooks, 2024-5",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "This is a Quarto website.\n\n\n\nCol1\nCol2\nCol3\n\n\n\n\nfsdf\ndsfdsf\ndsfdsf\n\n\n\n\n\n\n\n\n\n\n\n\n\nthis is mo\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "stage1.html",
+    "href": "stage1.html",
+    "title": "Stage 1",
+    "section": "",
+    "text": "Overview"
   }
 ]
