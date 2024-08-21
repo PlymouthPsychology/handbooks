@@ -4,4 +4,12 @@ title: "Psychology Stage Handbooks, 2024-5"
 
 This is a Quarto website.
 
+| Col1 | Col2   | Col3   |
+|------|--------|--------|
+| fsdf | dsfdsf | dsfdsf |
+|      |        |        |
+|      |        |        |
+
+this is mo
+
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
