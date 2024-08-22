@@ -21,6 +21,8 @@ website:
           - stage4.qmd
           - academic_year.qmd
           - bps_accreditation.qmd
+          - mpsych_transfer.qmd
+          - withdrawal.qmd
           
       - section: "Policies"
         contents:
@@ -47,6 +49,14 @@ website:
           - scholarship_standards.qmd
           - academic_dishonesty.qmd
           - extenuating_circumstances.qmd
+          
+      - section: "Results"
+        contents:
+          - results.qmd
+          - passing_modules.qmd
+          - failing_modules.qmd
+          - degree_awards.qmd
+          - prizes.qmd
 
 format:
   html:
