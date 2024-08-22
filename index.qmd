@@ -1,33 +1,25 @@
 ---
-title: "Psych Handbook"
+title: "Homepage"
 ---
 
+This is the School of Psychology handbook for undergraduate programmes. It contains essential information for students on the following programmes:
 
-# heading level 1
+BSc (Hons) Psychology
 
+BSc (Hons) Psychology with Criminology
 
-ddsf
+BSc (Hons) Psychology with Human Biosciences
 
+BSc (Hons) Psychology with Sociology
 
-## lee 2
+MPsych (Hons) Psychology
 
+MPsych (Hons) Psychology with Clinical Psychology
 
-asdasdas
+MPsych (Hons) Psychology with Human Neuroscience
 
+### Other sources of information
 
+The undergraduate Psychology page of the DLE: <https://dle.plymouth.ac.uk/course/view.php?id=38727>
 
-
-# anoher pae
-asas
-
-This is a Quarto website.
-
-| Col1 | Col2   | Col3   |
-|------|--------|--------|
-| fsdf | dsfdsf | dsfdsf |
-|      |        |        |
-|      |        |        |
-
-this is mo
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+The University of Plymouth Student Handbook: <https://www.plymouth.ac.uk/your-university/governance/student-handbook>
