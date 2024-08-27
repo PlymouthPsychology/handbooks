@@ -57,6 +57,26 @@ website:
           - failing_modules.qmd
           - degree_awards.qmd
           - prizes.qmd
+          
+      - section: "Community"
+        contents:
+          - our_community.qmd
+          - personal_tutors.qmd
+          - other_staff.qmd
+          - contacting_staff.qmd
+          - school_facilities.qmd
+          - support_services.qmd
+          - library.qmd
+          - student_representation.qmd
+          - course_feedback.qmd
+          
+      - section: "Your development"
+        contents:
+          - resources.qmd
+          - skills.qmd
+          - placement_year.qmd
+          - apprenticeships.qmd
+        
 
 format:
   html:
