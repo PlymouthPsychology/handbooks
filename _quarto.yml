@@ -72,7 +72,7 @@ website:
           
       - section: "Your development"
         contents:
-          - resources.qmd
+          - careers_resources.qmd
           - skills.qmd
           - placement_year.qmd
           - apprenticeships.qmd
