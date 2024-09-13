@@ -19,6 +19,7 @@ website:
           - stage1.qmd
           - stage2.qmd
           - stage4.qmd
+          - tutorials.qmd
           - academic_year.qmd
           - bps_accreditation.qmd
           - mpsych_transfer.qmd
