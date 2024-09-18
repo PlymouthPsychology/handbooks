@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 website:
+  google-analytics: "G-N2CBRC6JPM"
   site-path: "/handbooks/"
   title: "Psychology Handbook | University of Plymouth"
   navbar:
