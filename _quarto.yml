@@ -19,6 +19,7 @@ website:
           - programme_structure.qmd
           - stage1.qmd
           - stage2.qmd
+          - stage3.qmd
           - stage4.qmd
           - tutorials.qmd
           - academic_year.qmd
