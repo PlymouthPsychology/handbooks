@@ -22,7 +22,7 @@ Please note that no member of staff in the School of Psychology can give you an 
 
 For each piece of coursework, you will be provided with a template. This template will have the correct line spacing, font, font size, margins etc. already set up for you. It's important that you don't change these settings, because they ensure two things. Firstly, they ensure that we have the space to write feedback on your work. Secondly, they ensure that each page of text, even if submitted by different students, contains a comparable number of words. This in turn allows us to give meaningful guidance on the length of each assignment.
 
-Ensure that you complete all of the information on the cover sheet on the first page of this template. You should ensure that you enter your student registration number (SRN) in the header.
+Ensure that you complete all of the information on the cover sheet on the first page of this template.
 
 On each module's DLE page you will find a link through which you can submit coursework for that module. All coursework must be submitted as a single portable document format (PDF) file unless instructed otherwise.
 
@@ -30,13 +30,13 @@ There is a penalty for submitting in a different format, typically one grade. Fo
 
 When preparing your work for submission you should name the PDF you wish to submit in according with the following scheme:
 
-ModuleCode_SRN_AssignmentName.pdf
+ModuleCode_AssignmentName.pdf
 
 For example:
 
-PSYC421_12345678_Practical.pdf
+PSYC421_Practical.pdf
 
-would be student 12345678's practical report for PSYC421.
+would be the practical report for PSYC421.
 
 ### How to submit coursework
 
