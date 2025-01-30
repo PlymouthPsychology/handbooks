@@ -47,6 +47,7 @@ website:
           - marks.qmd
           - marking_criteria.qmd
           - exams.qmd
+          - mcq_exams.qmd
           - psylab.qmd
           - participation_points.qmd
           - scholarship_standards.qmd
