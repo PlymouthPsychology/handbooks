@@ -32,7 +32,7 @@ You probably recognise this as a normal distribution (slightly skewed, with a sm
 
 First we decide what the minimum score needed to get an A+ grade is, and in this particular example we might say that it was 85. On this exam, all marks of 85 and above would be assigned A+ (100). This threshold may well differ from other exams and modules.
 
-Next we decide that the minimum score needed to get a D- grade is. In this example, we might set it to 40, so that everyone scoring 40 or above passes. Again, this may well differ on another exam.
+Next we decide what the minimum score needed to get a D- grade is. In this example, we might set it to 40, so that everyone scoring 40 or above passes. Again, this may well differ on another exam.
 
 Having set those points, we know that there are 45 points between the bottom of the lowest grade D- and the top of the second highest grade, A. We then divide this range into eleven nearly equal parts for the eleven grades D-, D, D+, C-, C, C+, B-, B, B+, A-, and A. This means that the 'bins' for each grade would be four points wide, giving us this conversion table:
 
@@ -55,7 +55,7 @@ As eleven times four is 44 and we have 45 points to split up, the extra point ha
 
 ### What about the scores below the passing score?
 
-There will never be many of these, so the Module Leader decides failing grade individually. In this example, there were two such scores, both in the 35-40 bin. As in this example these are close to the pass mark, they would probably both get F+ (38) grades. If there had been a much lower score, such as 25 or 20, it might have been graded F (25) or F- (15).
+There will never be many of these, so the Module Leader decides failing grades individually. In this example, there were two such scores, both in the 35-40 bin. As in this example these are close to the pass mark, they would probably both get F+ (38) grades. If there had been a much lower score, such as 25 or 20, it might have been graded F (25) or F- (15).
 
 ### Do we use the same conversion table for every exam?
 
