@@ -33,6 +33,7 @@ website:
           - attendance.qmd
           - lecture_etiquette.qmd
           - personal_technology.qmd
+          - AI.qmd
           - lecture_recordings.qmd
           - cancellations.qmd
           
