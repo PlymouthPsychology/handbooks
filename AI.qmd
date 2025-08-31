@@ -1,5 +1,5 @@
 ---
-title: "Artifical Intelligence"
+title: "Artificial Intelligence"
 ---
 
 You might be familiar with Artificial Intelligence (AI) tools such as ChatGPT, Gemini, Copilot, and Grammarly. These tools can be beneficial in academic contexts when used appropriately to support your learning. Appropriate uses include:
